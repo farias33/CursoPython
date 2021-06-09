@@ -8,7 +8,7 @@ Condições IF, ELIF, ELSE
 
 # print(num_1 + num_2)
 
-if False:  # Se isso for verdadeiro
+if False:  # Se isso for verdadeirof
     print('Verdadeiro')
     print(5 // 2)
 elif False:  # E se isso for verdadeiro
