@@ -4,7 +4,7 @@ password = input("Senha do susuário: ")
 user_bd = "Thales"
 password_bd = "1234"
 
-if user_bd == user and password == password_bd:
+if user == user_bd and password == password_bd:
     print("Usuário logado")
 else:
     print("Usuário ou senha inválidos")
