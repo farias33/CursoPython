@@ -7,7 +7,7 @@ nova_string = " "
 """
 #Iteração
 while contador < tamanho_frase:
-    #print(frase[contador], contador)
+    print(frase[contador], contador)
     nova_string += frase[contador]
     print(nova_string)
     contador += 1
