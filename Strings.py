@@ -2,8 +2,8 @@
 str = string
 """
 print("algo")
-print("Essa é uma 'string'(str).") #Melhormaneira
-print('Essa é uma "string" (str).') #Melhormaneira
+print("Essa é uma 'string'(str).") #Melhor maneira
+print('Essa é uma "string" (str).') #Melhor maneira
 print("Esse é meu \"texto\" (str).")
 print('Esse é meu \'texto\' (str).')
 
