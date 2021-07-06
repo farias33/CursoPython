@@ -34,7 +34,7 @@ if "T" in nome: #"Se 'T' está em "nome" "
 else:
     print("Não existe")
     pass
-if "gh" not in nome: #"Se 'T' não está em "nome" "
+if "gh" not in nome: #"Se 'gh' não está em "nome" "
     print("Não existe")
 else:
     print("Existe o texto")
